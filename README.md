@@ -2,7 +2,7 @@
 
 [Speed Stars](https://speedstars2.io/) is a running game where players join fast-paced running competition. The key to victory depends on your multi-tasking as you handle different control keys at the same time to balance your speedster and run at the fastest pace!
 
-##Speed Stars Game Overview
+## Speed Stars Game Overview
 
 Developer: Luke Doukakis
 
@@ -12,7 +12,7 @@ Genres: Racing, Running, Sports, Casual
 
 **Speed Stars** bring an ultimate racing to players. The goal is to become the fastest speedster and reach the finish line first. 
 
-##How to play Speed Stars
+## How to play Speed Stars
 
 1. Go to https://speedstars2.io/.
 
@@ -51,7 +51,7 @@ You can change the color of different items, from body, top, shoes, leggings, ha
 
 **Speed Stars Unblocked** is the unblocked version of the game where you can play without any restriction. It's also available at speedstars2.io.
 
-##How to win Speed Stars
+## How to win Speed Stars
 
 1. Learn the controls
 
