@@ -15,13 +15,21 @@ Genres: Racing, Running, Sports, Casual
 **How to play Speed Stars**
 
 1. Go to https://speedstars2.io/.
+
 2. Give your athelete a name.
+
 3. Choose nationality.
+
 4. Select Race and start running!
+
 5. Use the left and right arrow keys to control your athelete. Make sure that you only start running when hearing the starting pistol.
+
 Try to balance the runner because if you hold any key for too long, the athelete may lean forward too much and slow down.
+
 Keep balance and stay upright!
+
 6. Try different "Race of the Day", "Hurdles", "Relay", and Other challenge.
+
 **Sprints**:
 100m dash
 200m dash
@@ -37,16 +45,27 @@ Keep balance and stay upright!
 4x100m relay
 **Other**:
 Free run
+
 7. Customize your athelete
 You can change the color of different items, from body, top, shoes, leggings, hands, and many more.
+
 **Speed Stars Unblocked** is the unblocked version of the game where you can play without any restriction. It's also available at speedstars2.io.
+
 **How to win Speed Stars**
+
 1. Learn the controls
+
 Controlling the athelete to run quickly while staying upright is important. This requires players to master the controls. Take your time and learn how the character physics work.
+
 2. Hurdles and obstacles
+
 If you play Hurdle race track, make sure that you anticipate the upcoming obstacles and time your jumps precisely.
+
 3. Take care of your stamina in long race
+
 If you join long race, remember to pace yourself early and make sure that you stay fresh until the end.
+
 **Are You Ready to Claim Your Title?**
+
 Don't just watch the race - be a part of it. Play Speed Stars now and try to become the ultimate speed runner! 
 
