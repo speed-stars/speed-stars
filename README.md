@@ -1,3 +1,4 @@
+# Speed Stars
 ## Speed Stars
 
 [Speed Stars](https://speedstars2.io/) is a running game where players join fast-paced running competition. The key to victory depends on your multi-tasking as you handle different control keys at the same time to balance your speedster and run at the fastest pace!
