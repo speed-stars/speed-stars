@@ -58,7 +58,7 @@ Keep balance and stay upright!
 Free run
 
 7. Customize your athelete
-8. 
+
 You can change the color of different items, from body, top, shoes, leggings, hands, and many more.
 
 **Speed Stars Unblocked** is the unblocked version of the game where you can play without any restriction. It's also available at speedstars2.io.
