@@ -1,4 +1,7 @@
 # Speed Stars
+
+The best running game to play
+
 ## Speed Stars
 
 [Speed Stars](https://speedstars2.io/) is a running game where players join fast-paced running competition. The key to victory depends on your multi-tasking as you handle different control keys at the same time to balance your speedster and run at the fastest pace!
@@ -13,7 +16,7 @@ Genres: Racing, Running, Sports, Casual
 
 **Speed Stars** bring an ultimate racing to players. The goal is to become the fastest speedster and reach the finish line first. 
 
-## How to play Speed Stars
+## How to play Speed Stars Game
 
 1. Go to https://speedstars2.io/.
 
@@ -32,6 +35,7 @@ Keep balance and stay upright!
 6. Try different "Race of the Day", "Hurdles", "Relay", and Other challenge.
 
 **Sprints**:
+
 100m dash
 200m dash
 400m run
@@ -39,15 +43,22 @@ Keep balance and stay upright!
 300m dash
 150m straight
 800m run
+
 **Hurdles**:
+
 110m hurdles
-400m hủdles
+400m hurdles
+
 **Relay**:
+
 4x100m relay
+
 **Other**:
+
 Free run
 
 7. Customize your athelete
+8. 
 You can change the color of different items, from body, top, shoes, leggings, hands, and many more.
 
 **Speed Stars Unblocked** is the unblocked version of the game where you can play without any restriction. It's also available at speedstars2.io.
@@ -69,4 +80,3 @@ If you join long race, remember to pace yourself early and make sure that you st
 **Are You Ready to Claim Your Title?**
 
 Don't just watch the race - be a part of it. Play Speed Stars now and try to become the ultimate speed runner! 
-
